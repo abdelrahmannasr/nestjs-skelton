@@ -1,0 +1,14 @@
+{
+    "RESET_PASSWORD__TITLE": "Reset password request",
+    "RESET_PASSWORD__PARAGRAPH": "We received a request for a password change on your madar account.",
+    "RESET_PASSWORD__BUTTON": "Reset your password",
+    "VERIFY_EMAIL__WELCOME": "Welcome!",
+    "VERIFY_EMAIL__PARAGRAPH": "We're excited to have you get started. First, you need to confirm your account. Just press the button below.",
+    "VERIFY_EMAIL__BUTTON": "Confirm Account",
+    "BUTTON_NOT_WORKING_MESSAGE": "If that doesn't work, copy and paste the following link in your browser:",
+    "HAVE_ANY_QUESTIONS": "If you have any questions, just reply to this email — we're always happy to help out.",
+    "THANKS": "Thanks",
+    "MADAR_TEAM": "Madar support team",
+    "NEW_SHIPMENT__TITLE": "New shipment creation",
+    "NEW_SHIPMENT__PARAGRAPH": "Please be informed that new shipment has been created from Customer {{customerName}} from {{form}} To {{to}}"
+}

@@ -1,0 +1,19 @@
+{
+    "DeviceRegistered": "Device registered Successfully",
+    "EmailVerified": "Email verified Successfully",
+    "VerificationMailSubject": "Email Verification - Madar",
+    "ResetPasswordMailSubject": "Reset Password - Madar",
+    "MobileNumberVerified": "Mobile Number Verified Successfully",
+    "OtpSentSuccessfully": "Otp Sent Successfully",
+    "ShipmentAssignedSuccessfully": "Shipment assigned successfully",
+    "ShipmentStatusUpdatedSuccessfully": "Shipment status updated successfully",
+    "VerificationMailSent": "Verification mail sent successfully",
+    "InvitationMailSubject": "Invitation - Madar",
+    "FleetRegisterSuccessfully": "Thank you for your registration , your account will be activated soon",
+    "DriverPasswordSent": "Driver password has been sent",
+    "PasswordResetSuccessfully": "Password has been reset successfully",
+    "LeadDeletedSuccessfully": "Lead has been deleted successfully",
+    "ShipmentCreation": "New shipment has been created",
+    "ShipmentAssign": "Shipment has been assigned",
+    "ShipmentDelivered": "Shipment delivered"
+}

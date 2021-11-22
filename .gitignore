@@ -1,0 +1,23 @@
+# compiled output
+/dist
+/tmp
+/images
+/out
+
+# dependencies
+/node_modules
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea
+
+system-logs.log
+package-lock.json
+systemLogs.log
+.vscode
+ormconfig.json
+.env
